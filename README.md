@@ -1,2 +1,2 @@
-# Gorillad
+# Gorillas
 facts about gorillas
