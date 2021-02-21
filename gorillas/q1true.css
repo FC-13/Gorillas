@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+header{
+    font-family: 'Stick', sans-serif;
+    color: red;
+    text-align: center;
+    font-size: 200px;
+    cursor: pointer;
+
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
