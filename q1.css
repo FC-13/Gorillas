@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick&display=swap');
+
+
+body{
+    background-color: black;
+}
+
+header{
+    font-family: 'Stick', sans-serif;
+    color: #d2b04c;
+    text-align: center;
+    font-size: 64px;
+
+}
+
+.tr{
+    display: inline-block;
+    font-family: 'Stick', sans-serif;
+    color: #d2b04c;
+    font-size: 52px;
+    margin-left: 25%;
+    
+}
+
+.tr:hover{
+    display: inline-block;
+    font-family: 'Stick', sans-serif;
+    color: lime;
+    font-size: 52px;
+    margin-left: 25%; 
+    cursor: pointer;
+}
+
+.fa{
+    display: inline-block;
+    font-family: 'Stick', sans-serif;
+    color: #d2b04c;
+    font-size: 52px;
+    margin-right: 25%;
+    float: right;
+    
+}
+
+.fa:hover{
+    display: inline-block;
+    font-family: 'Stick', sans-serif;
+    color: red;
+    font-size: 52px;
+    margin-right: 25%; 
+    cursor: pointer;
+    float: right;
+}
